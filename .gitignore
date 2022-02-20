@@ -349,5 +349,6 @@ $RECYCLE.BIN/
 *.h5
 *.png
 *.csv
+house-prices-advanced-regression-techniques/
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,visualstudiocode,pycharm,macos,jupyternotebooks,python,windows
